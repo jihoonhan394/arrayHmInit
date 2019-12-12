@@ -1,5 +1,7 @@
 package egovframework.example.array.web;
 
+import java.util.Enumeration;
+
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
